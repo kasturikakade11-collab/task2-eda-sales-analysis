@@ -69,5 +69,10 @@ data extraction and basic dashboarding.
 Kasturi | Data Analytics Internship — Task 2
 
 ## 🔗 Related
-- [Task 1: Data Cleaning](../Task1_DataCleaning/) — 
+- [Task 1: Data Cleaning](If you ALSO created a separate repo for Task 1 
+(like "task1-data-cleaning-cafe-sales" or similar), 
+use its FULL GitHub URL instead:
+
+## 🔗 Related
+- [Task 1: Data Cleaning](https://github.com/kasturikakade11-collab/ApexPlanet-Task1)
   data preparation work this analysis builds on
